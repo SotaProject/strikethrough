@@ -47,7 +47,7 @@ Add a new Tool to the `tools` property of the Editor.js initial config.
 
 ```javascript
 import EditorJs from '@editorjs/editorjs';
-import Strikethrough from '@editorjs/strikethrough';
+import Strikethrough from '@sotaproject/strikethrough';
 
 var editor = new EditorJS({
   // ...
